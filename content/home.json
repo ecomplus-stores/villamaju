@@ -66,13 +66,13 @@
       "title": "Top 10"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-2-1200x450px.png"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "lowest_price"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-2-1200x450px.png"
     }
   ]
 }
