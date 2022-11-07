@@ -39,6 +39,14 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 10,
+      "page": 1,
+      "sort": "sales",
+      "title": "Top 10"
     }
   ]
 }
