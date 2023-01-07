@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5b24778744595cd7d839f7203f35b5ec.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.c1462849f0e96b0faf7f32db72a92f06.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.fe370e815db94d09d95fd97611838f2d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.5dafbbd4c051ee73ace1dab0dd5930d2.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.df72f58eef7e08b5fe4d52a19fc6996a.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Villa Maju Store",
+  "short_name": "Villa Maju ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja de roupas Femininas adulto e infantil.",
+  "background_color": "#ffffff",
+  "theme_color": "#a56095"
+}
