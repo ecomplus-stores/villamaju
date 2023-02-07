@@ -10,12 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-1-1920x700px.png",
-          "link": ""
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/1-kids-banner_villamaju_1200x450px-copy.png",
           "link": "https://villamaju.com.br/infantil"
         },
@@ -67,7 +61,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-2-1200x450px.png"
+      "img": "/img/uploads/banner-1-1920x700px.png"
     },
     {
       "type": "dynamic-showcase",
