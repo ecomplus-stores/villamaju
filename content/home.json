@@ -43,15 +43,6 @@
       "page": 1,
       "sort": "news",
       "title": "Top 10"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-1-1920x700px.png"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
     }
   ]
 }
