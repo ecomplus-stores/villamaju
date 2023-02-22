@@ -1,7 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "Frete Grátis!!"
+    "text": "Frete Grátis!!",
+    "link": "https://villamaju.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
