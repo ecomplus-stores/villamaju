@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Coleção Infantil Frete Grátis!!"
+    "text": "Frete Grátis!!"
   },
   "installments": {
     "show": true,
@@ -13,6 +13,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Coleção adulto com até 50% de desconto. Aproveite!!"
+    "text": "Aproveite nossos descontos!!",
+    "link": "https://villamaju.com.br/outlet"
   }
 }
