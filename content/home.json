@@ -21,12 +21,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-kids-2-580x370px.png",
-          "link": "https://villamaju.com.br/infantil"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "collection-shelf",
