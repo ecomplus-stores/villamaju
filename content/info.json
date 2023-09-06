@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Frete Grátis!!",
+    "text": "Frete Grátis",
     "link": "https://villamaju.com.br/pages/entrega"
   },
   "installments": {
@@ -10,11 +10,13 @@
   },
   "exchange": {
     "show": false,
-    "text": ""
+    "text": "",
+    "link": "https://villamaju.com.br/pages/trocas",
+    "title": "Trocas e Devoluções"
   },
   "promo": {
     "show": true,
-    "text": "Aproveite nossos descontos!!",
+    "text": "Aproveite nossos descontos",
     "link": "https://villamaju.com.br/outlet"
   }
 }
