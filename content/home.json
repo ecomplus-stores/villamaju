@@ -26,10 +26,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 10,
+      "limit": 12,
       "page": 1,
       "sort": "news",
-      "title": "Top 10"
+      "title": "Tops da Maju"
     }
   ]
 }
