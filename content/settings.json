@@ -1,14 +1,14 @@
 {
   "domain": "www.villamaju.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#a56095",
+  "primary_color": "#59d4c9",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/villamaju",
-  "logo": "/img/uploads/villa-maju-store-logo-02.png",
+  "logo": "/img/uploads/variacao-sem-fundo.png",
   "name": "Villa Maju Kids",
   "short_name": "Villa Maju ",
   "lang": "pt_br",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon_75x75px_villamaju-01.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#a56095",
+  "secondary_color": "#ffdf40",
   "icon": "/img/uploads/villa-maju-store-logo-02.png",
   "store_id": 44738,
   "description": "Loja de roupas infantil para meninas.",
