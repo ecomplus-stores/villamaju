@@ -1,7 +1,7 @@
 {
   "domain": "www.villamaju.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#fbd82c",
+  "primary_color": "#c89934",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
