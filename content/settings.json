@@ -3,12 +3,12 @@
   "currency_symbol": "R$",
   "primary_color": "#c89934",
   "theme": {
-    "bootswatch": "minty",
-    "custom": "ecom-beauty"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/villamaju",
-  "logo": "/img/uploads/logo-villamaju-lower.png",
+  "logo": "/img/uploads/sublogo-sem-fundo.png",
   "name": "Villa Maju Kids",
   "short_name": "Villa Maju ",
   "lang": "pt_br",
