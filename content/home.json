@@ -13,6 +13,12 @@
           "img": "/img/uploads/1920x700-mod-1.png",
           "link": "",
           "mobile_img": "/img/uploads/600x600-mod1.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/1920x700-mod-1-copiar.png",
+          "mobile_img": "/img/uploads/600x600-mod1-copiar.png"
         }
       ]
     },
