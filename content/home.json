@@ -21,7 +21,12 @@
     },
     {
       "type": "banners-grid",
-      "banners": []
+      "banners": [
+        {
+          "img": "/img/uploads/grid.png",
+          "link": "https://villamaju.com.br/todososprodutos"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
