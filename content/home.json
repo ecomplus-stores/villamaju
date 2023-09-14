@@ -25,6 +25,10 @@
         {
           "img": "/img/uploads/grid.png",
           "link": "https://villamaju.com.br/todososprodutos"
+        },
+        {
+          "img": "/img/uploads/grid-2.png",
+          "link": "https://villamaju.com.br/outlet"
         }
       ]
     },
