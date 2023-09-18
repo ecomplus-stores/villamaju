@@ -10,7 +10,7 @@
     "link": "https://villamaju.com.br/todososprodutos"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "",
     "link": "https://villamaju.com.br/pages/trocas",
     "title": "Trocas e Devoluções"
