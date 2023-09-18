@@ -1,22 +1,23 @@
 {
   "shipping": {
     "show": true,
-    "text": "Frete Grátis",
+    "text": "Frete por nossa conta nas compras acima de R$ 200,00",
     "link": "https://villamaju.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x "
+    "text": "Parcele em até 3x sem juros",
+    "link": "https://villamaju.com.br/todososprodutos"
   },
   "exchange": {
-    "show": false,
+    "show": true,
     "text": "",
     "link": "https://villamaju.com.br/pages/trocas",
     "title": "Trocas e Devoluções"
   },
   "promo": {
     "show": true,
-    "text": "Aproveite nossos descontos",
-    "link": "https://villamaju.com.br/outlet"
+    "text": "Ganhe 5% pagando com Pix",
+    "link": "https://villamaju.com.br/todososprodutos"
   }
 }
