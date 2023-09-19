@@ -8,14 +8,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2023-09-16-at-13.05.48.jpeg",
-          "mobile_img": "/img/uploads/whatsapp-image-2023-09-16-at-13.05.48.jpeg"
-        }
-      ]
+      "slides": []
     }
   ]
 }
