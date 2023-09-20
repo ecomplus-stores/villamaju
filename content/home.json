@@ -20,6 +20,13 @@
           "img": "/img/uploads/1920x700-mod-1-copiar.png",
           "mobile_img": "/img/uploads/600x600-mod1-copiar.png",
           "link": "https://villamaju.com.br/todososprodutos"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/1920x700-mod-1-copiar-2.png",
+          "link": "https://villamaju.com.br/novidades",
+          "mobile_img": "/img/uploads/600x600-mod1-copiar-2.png"
         }
       ]
     },
