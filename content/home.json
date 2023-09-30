@@ -57,16 +57,17 @@
       "limit": 12,
       "page": 1,
       "sort": "news",
-      "title": "Queridinhos da Maju"
+      "title": "Lançamentos",
+      "link": "https://villamaju.com.br/novidades"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "title": "Lançamentos",
-      "link": "https://villamaju.com.br/novidades"
+      "sort": "sales",
+      "title": "Queridinhos da Maju",
+      "link": "https://villamaju.com.br/outlet"
     }
   ]
 }
