@@ -58,6 +58,15 @@
       "page": 1,
       "sort": "news",
       "title": "Queridinhos da Maju"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "Lançamentos",
+      "link": "https://villamaju.com.br/novidades"
     }
   ]
 }
