@@ -42,29 +42,12 @@
       "enabled": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/grid.png",
-          "link": "https://villamaju.com.br/todososprodutos"
-        },
-        {
-          "img": "/img/uploads/grid-2.png",
-          "link": "https://villamaju.com.br/outlet"
-        },
-        {
-          "img": "/img/uploads/grid-3.png",
-          "link": "https://villamaju.com.br/novidades"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "sort": "news",
-      "title": "Lançamentos",
+      "title": "Tops da Maju",
       "link": "https://villamaju.com.br/novidades"
     },
     {
@@ -75,6 +58,11 @@
       "sort": "sales",
       "title": "Queridinhos da Maju",
       "link": "https://villamaju.com.br/outlet"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "lowest_price"
     }
   ]
 }
