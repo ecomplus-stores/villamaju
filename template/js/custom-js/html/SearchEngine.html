@@ -197,6 +197,7 @@
             :class="dataContainer ? (dataContainer.container + ' ' + dataContainer.padding_sm + ' ' + dataContainer.padding_md) : 'container'"
             >
         <div
+            v-if="isNavVisible"
             class="search-engine__nav"
         >
             <div class="">
