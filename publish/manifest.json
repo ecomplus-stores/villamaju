@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c31d7914446094218da3f13a50489015.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.58352d4983c23a537a4b25161eddd997.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.cdb9be823740050a28330b46d7fb0f8a.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.88b999708ed7d4a0c226c4e33eac727e.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.d2225de9c009e42b84328eded493de80.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Villa Maju Kids",
+  "short_name": "Villa Maju ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja de roupas infantil para meninas.",
+  "background_color": "#ffffff",
+  "theme_color": "#c89934"
+}
